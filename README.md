@@ -35,6 +35,7 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
   
 ## Links to other places
 [Google Search](https://google.com)
+
 [Links to the mind of a deranged man(I'm slightly sick)](class3)
 
   
