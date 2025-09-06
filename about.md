@@ -13,6 +13,12 @@ I also will occasionally show up to Club Ultimate Frisbee practices and games an
 + Golf
 + Ultimate Frisbee
 
+See an image of Professional Disc Golfer Andrew Presnell below
+
+![Disc Golf Putt](https://images.pexels.com/photos/12661977/pexels-photo-12661977.jpeg)
+
+Dallas Wrinkle, Andrew Presnell Putt, June 26, 2022, [Pexels](https://www.pexels.com/)
+
 ## My Top 3 Favorite Foods
 
 1. Chicken Parmesan
@@ -28,7 +34,9 @@ I also will occasionally show up to Club Ultimate Frisbee practices and games an
 
 [My GitHub Profile](https://github.com/gacass48)
 
-[GitHub Pages Website]
+[GitHub Pages Website](https://gacass48.github.io/cs3017-f25/)
+
+
 
 
 
