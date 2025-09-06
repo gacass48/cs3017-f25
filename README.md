@@ -40,4 +40,6 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 
 [subsection example](#subsection-example)
 
+[Link to about homework](about.md)
+
   
