@@ -42,4 +42,6 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 
 [Link to about homework](about.md)
 
+# Example Image
+![Many trees with green leaves in a forest](trees.jpg)
   
